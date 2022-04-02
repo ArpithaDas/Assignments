@@ -1,3 +1,3 @@
 # Assignments
 
-This file has some begginer Data Science Algorithm programs 
+This file has Data Science Algorithm programs 
